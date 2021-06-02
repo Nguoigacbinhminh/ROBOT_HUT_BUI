@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=PGD Pin=IC2-39
+Removed Pin From Net: NetName=PGD Pin=JP1-2
+Added Pin To Net: NetName=PGC Pin=IC2-39
+Added Pin To Net: NetName=PGD Pin=IC2-40
+Added Pin To Net: NetName=PGD Pin=JP1-1
+Added Pin To Net: NetName=PGC Pin=JP1-2

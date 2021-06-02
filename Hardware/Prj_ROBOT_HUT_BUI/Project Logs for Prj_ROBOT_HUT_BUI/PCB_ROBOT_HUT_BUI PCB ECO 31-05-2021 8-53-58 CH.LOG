@@ -1,0 +1,8 @@
+Added Component: Designator=HC?(HC05 Bluethooth Nam)
+Add component (AddParameter): Name = "Value"; Value = "Connector 6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RC6 Pin=HC?-2
+Added Pin To Net: NetName=RC7 Pin=HC?-3
+Added Pin To Net: NetName=GND Pin=HC?-4
+Added Pin To Net: NetName=VCC Pin=HC?-5
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component HC? HC05 Bluetooth
+Added Room: Name=SCH_ROBOT_HUT_BUI

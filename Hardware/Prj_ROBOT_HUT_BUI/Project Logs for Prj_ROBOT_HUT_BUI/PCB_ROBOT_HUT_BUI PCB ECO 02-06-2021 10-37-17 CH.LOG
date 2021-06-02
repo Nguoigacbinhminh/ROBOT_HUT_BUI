@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=RS1-1
+Removed Pin From Net: NetName=RST Pin=RS1-2
+Removed Pin From Net: NetName=RB0 Pin=SW2-1
+Removed Pin From Net: NetName=GND Pin=SW2-2
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=RS1
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=SW2
+Added Component: Designator=BT1(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Component: Designator=BT2(Nut Nhan 2 Chan SMD 3x6x2.5)
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001036"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten"; Value = "Nút Nh?n 2 Chân 3x6x2.5MM SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=BT1-1
+Added Pin To Net: NetName=RST Pin=BT1-2
+Added Pin To Net: NetName=RB0 Pin=BT2-1
+Added Pin To Net: NetName=GND Pin=BT2-2
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component BT1 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component BT2 Nut Nhan 2 Chan SMD 3x6x2.5
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component IC1 LM7805
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component J3 Jumper 3

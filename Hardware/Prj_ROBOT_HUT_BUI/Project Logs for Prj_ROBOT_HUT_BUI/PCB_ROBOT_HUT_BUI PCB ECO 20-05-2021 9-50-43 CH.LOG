@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=PGD Pin=IC2-39
+Added Pin To Net: NetName=PGD Pin=JP1-2
+Change Net Name : Old Net Name=RB7 New Net Name=NETLABEL4

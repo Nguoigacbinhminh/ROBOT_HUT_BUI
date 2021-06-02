@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=VCC Pin=IC2-11
+Removed Pin From Net: NetName=VCC Pin=IC2-32
+Removed Pin From Net: NetName=VCC Pin=ICSP1-2
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=SW1-2
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=C10
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=J2
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=LED3
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=LM1
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=R4
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=SW1
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=IC1-3
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=LCD1-15
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=RD3 Pin=R10-1
+Change Net Name : Old Net Name=VCC New Net Name=5V
+Added Pin To Net: NetName=VCC Pin=IC2-11
+Added Pin To Net: NetName=VCC Pin=IC2-32
+Added Pin To Net: NetName=VCC Pin=ICSP1-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Net: Name=VCC

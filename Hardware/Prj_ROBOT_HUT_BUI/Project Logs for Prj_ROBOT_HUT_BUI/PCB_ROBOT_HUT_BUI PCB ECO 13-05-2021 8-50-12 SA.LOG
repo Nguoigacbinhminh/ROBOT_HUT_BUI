@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=LM7805-1
+Removed Pin From Net: NetName=GND Pin=LM7805-2
+Removed Pin From Net: NetName=5V Pin=LM7805-3
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=LM7805
+Change Component Description : Designator=C1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C3 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C4 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C10 Old Description=C?m New Description=C?m
+Change Component Description : Designator=C11 Old Description=C?m New Description=C?m
+Change Component Description : Designator=L1 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R2 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R5 Old Description=C?m New Description=C?m
+Change Component Description : Designator=R6 Old Description=C?m New Description=C?m
+Added Component: Designator=U1(SOT89)
+Added Pin To Net: NetName=PGC Pin=IC1-39
+Added Pin To Net: NetName=PGD Pin=IC1-40
+Added Pin To Net: NetName=PGD Pin=JP1-1
+Added Pin To Net: NetName=PGC Pin=JP1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component U1 78L05 SMD SOT89

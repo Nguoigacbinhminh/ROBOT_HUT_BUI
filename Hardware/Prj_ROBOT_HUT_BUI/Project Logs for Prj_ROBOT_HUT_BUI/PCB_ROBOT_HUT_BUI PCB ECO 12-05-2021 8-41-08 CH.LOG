@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=RC3 Pin=SD1-1
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=C12
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=SD1

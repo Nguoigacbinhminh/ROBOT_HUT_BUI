@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=*1-1
+Removed Pin From Net: NetName=RC4 Pin=*1-2
+Removed Pin From Net: NetName=RC5 Pin=*1-3
+Removed Pin From Net: NetName=GND Pin=*1-5
+Removed Member From Class: ClassName=SCH_ROBOT_HUT_BUI Member=*1
+Added Component: Designator=USB?(USB Mini 5p SMD)
+Added Pin To Net: NetName=5V Pin=USB?-1
+Added Pin To Net: NetName=RC4 Pin=USB?-2
+Added Pin To Net: NetName=RC5 Pin=USB?-3
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Pin To Net: NetName=GND Pin=USB?-5
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component USB? USB Mini 5p SMD

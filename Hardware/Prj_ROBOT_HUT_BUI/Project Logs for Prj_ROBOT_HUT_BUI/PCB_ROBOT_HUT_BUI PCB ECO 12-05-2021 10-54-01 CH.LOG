@@ -1,0 +1,6 @@
+Added Component: Designator=UART(CON4)
+Added Pin To Net: NetName=GND Pin=UART-1
+Added Pin To Net: NetName=RC7 Pin=UART-2
+Added Pin To Net: NetName=RC6 Pin=UART-3
+Added Pin To Net: NetName=VCC Pin=UART-4
+Added Member To Class: ClassName=SCH_ROBOT_HUT_BUI Member=Component UART

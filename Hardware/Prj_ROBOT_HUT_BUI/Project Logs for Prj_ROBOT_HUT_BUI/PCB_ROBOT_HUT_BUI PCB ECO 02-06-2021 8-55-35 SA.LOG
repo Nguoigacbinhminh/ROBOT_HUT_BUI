@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RD0 Pin=LCD1-4
+Removed Pin From Net: NetName=RD1 Pin=LCD1-5
+Removed Pin From Net: NetName=RD2 Pin=LCD1-6
+Change Component Designator: OldDesignator=J-5V NewDesignator=J1
+Change Component Designator: OldDesignator=J-GND NewDesignator=J3
+Change Component Designator: OldDesignator=LM7805 NewDesignator=IC1
+Added Pin To Net: NetName=RD2 Pin=LCD1-4
+Added Pin To Net: NetName=GND Pin=LCD1-5
+Added Pin To Net: NetName=RD3 Pin=LCD1-6
